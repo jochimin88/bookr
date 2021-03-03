@@ -1,2 +1,0 @@
-# bookr
-Web Django
